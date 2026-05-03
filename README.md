@@ -73,3 +73,4 @@ StockItem.cs: アイテムのエンティティ。期限接近判定（IsExpirin
 [ ] 期限のバッチ更新機能
 
 [ ] CSVインポート/エクスポート機能
+<img width="981" height="733" alt="スクリーンショット 2026-05-03 103154" src="https://github.com/user-attachments/assets/701348da-831d-4f4b-8c89-45d447c820d9" />
